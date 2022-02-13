@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>NETRESEC Network Security</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.netresec.com/?page=NetworkMiner</projectUrl>
-    <!-- iconUrl>https://rawcdn.githack.com/</iconUrl -->
+    <iconUrl>https://rawcdn.githack.com/rylagek/chocolatey-packages/40d355244c17813ce9b3ffeb6b83834cf22d87d6/networkminer/networkminericon.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <licenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
